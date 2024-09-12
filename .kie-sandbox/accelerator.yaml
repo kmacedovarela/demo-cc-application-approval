@@ -1,0 +1,10 @@
+# This file was automatically created by BAMOE Canvas. Please don't modify it.
+name: Quarkus (Full)
+iconUrl: >-
+  https://github.com/ibm/bamoe-canvas-quarkus-accelerator/raw/9.1.0-ibm-0001-quarkus-full/logo.png
+gitRepositoryUrl: https://github.com/ibm/bamoe-canvas-quarkus-accelerator
+gitRepositoryGitRef: 9.1.0-ibm-0001-quarkus-full
+dmnDestinationFolder: src/main/resources
+bpmnDestinationFolder: src/main/resources
+otherFilesDestinationFolder: src/main/resources
+appliedAt: '2024-07-01T21:39:20.993Z'
