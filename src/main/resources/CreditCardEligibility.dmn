@@ -61,7 +61,7 @@
           <text>-</text>
         </inputEntry>
         <inputEntry id="_91B227C7-4D99-4202-9938-7B9D9433C90A">
-          <text>&lt; 18</text>
+          <text>&lt; 17</text>
         </inputEntry>
         <outputEntry id="_7C88EA1A-8910-4585-A19C-9F0611E65E22">
           <text>0</text>
@@ -81,7 +81,7 @@
           <text>&lt; 550</text>
         </inputEntry>
         <inputEntry id="_41807CCE-C77F-4999-9494-CF889051EEED">
-          <text>&gt;= 18</text>
+          <text>&gt;= 17</text>
         </inputEntry>
         <outputEntry id="_C7B62AAA-4060-4504-95F0-A28436C643E8">
           <text>20</text>
