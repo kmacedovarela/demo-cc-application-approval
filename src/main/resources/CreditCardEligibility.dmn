@@ -248,28 +248,28 @@ else &quot;approved&quot;</text>
         </kie:ComponentsWidthsExtension>
       </di:extension>
       <dmndi:DMNShape id="_E4925964-4268-40EB-9865-668A3F7A27E5" dmnElementRef="_45C1272A-23DD-4B0E-8784-71D71EA1FBDC" isCollapsed="false" isListedInputData="false">
-        <dc:Bounds x="520" y="200" width="160" height="80" />
+        <dc:Bounds x="440" y="160" width="160" height="80" />
       </dmndi:DMNShape>
       <dmndi:DMNShape id="_0AB60698-6E84-4281-AC28-66ACA5E06E76" dmnElementRef="_65DFDCC7-0B7E-4D5B-BA70-726BBEAB22F3" isCollapsed="false" isListedInputData="false">
-        <dc:Bounds x="520" y="60" width="160" height="80" />
+        <dc:Bounds x="440" y="20" width="160" height="80" />
       </dmndi:DMNShape>
       <dmndi:DMNShape id="_07A6F82A-57FF-48EA-944D-624D4EB9F016" dmnElementRef="_9C70F987-F747-4651-A293-CCFF5B96DDC9" isCollapsed="false" isListedInputData="false">
-        <dc:Bounds x="520" y="340" width="160" height="80" />
+        <dc:Bounds x="440" y="300" width="160" height="80" />
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="_804D4404-D061-420A-A3D1-7AA92C71A3C6" dmnElementRef="_E6372EA2-A083-4253-89C5-6139400008AC" sourceElement="_07A6F82A-57FF-48EA-944D-624D4EB9F016" targetElement="_E4925964-4268-40EB-9865-668A3F7A27E5">
-        <di:waypoint x="600" y="380" />
-        <di:waypoint x="600" y="240" />
+        <di:waypoint x="520" y="340" />
+        <di:waypoint x="520" y="200" />
       </dmndi:DMNEdge>
       <dmndi:DMNShape id="_361F74F4-D32D-45FA-AE12-462EFD3724DD" dmnElementRef="_2C9704EA-E2BC-4367-8E73-7AEDC78BA1AE" isCollapsed="false" isListedInputData="false">
-        <dc:Bounds x="220" y="200" width="200" height="60" />
+        <dc:Bounds x="140" y="160" width="200" height="60" />
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="_E1929612-3209-4368-8645-CF8E99CE2544-AUTO-TARGET" dmnElementRef="_82959522-45D6-42A9-8F57-08D97A2C2E21" sourceElement="_E4925964-4268-40EB-9865-668A3F7A27E5" targetElement="_361F74F4-D32D-45FA-AE12-462EFD3724DD">
-        <di:waypoint x="600" y="240" />
-        <di:waypoint x="320" y="230" />
+        <di:waypoint x="520" y="200" />
+        <di:waypoint x="240" y="190" />
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="_9EDBBE08-CC95-4C4E-BBAE-A8D26D0E3C90" dmnElementRef="_45C0F101-4E19-41CB-95C3-78032E0F979E" sourceElement="_E4925964-4268-40EB-9865-668A3F7A27E5" targetElement="_0AB60698-6E84-4281-AC28-66ACA5E06E76">
-        <di:waypoint x="600" y="240" />
-        <di:waypoint x="600" y="100" />
+        <di:waypoint x="520" y="200" />
+        <di:waypoint x="520" y="60" />
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
